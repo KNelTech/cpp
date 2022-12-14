@@ -8,7 +8,7 @@ int main()
 }
 
 /*
-
+https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-variables/exercises/chaining
 
 so using /n making a newline
 
